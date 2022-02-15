@@ -30,7 +30,7 @@ None
 
 
 [main]: https://github.com/iamknownasfesal
-[linkedin]: https://www.linkedin.com/in/devwarlt/
+[linkedin]: https://www.linkedin.com/in/mehmet-karchal/
 [gmail]: mailto:mkircal957@gmail.com
 [discord-badge]: https://img.shields.io/badge/Fesal%231797-black?logo=discord&style=for-the-badge
 [linkedin-badge]: https://img.shields.io/badge/Mehmet%20Karchal-purple?logo=linkedin&style=for-the-badge
