@@ -23,7 +23,7 @@ None
 ### Previous
 - Fullstack Developer [**BSOYMTAL**](https://bsoymtalwebkutuphane.web.app) (Turkey/2021)
 - Fullstack Developer, Video Editor and Content Creator [**MMeslekiEgitimTanitim**](https://www.mmeslekiegitimtanitim.com) (Turkey/2021) discounted
-- Senior .NET/Action Script 3.0 Developer [**ElementalRealms**] (Turkey/2020)
+- Senior .NET/Action Script 3.0 Developer [**ElementalRealms**](https://www.youtube.com/watch?v=Fb0zINzmQ1) (Turkey/2020)
 - Founder [**GeDante**](https://gedante.works) (Turkey/2021-2022) discounted
 - Founder [**Hendra Games**](https://iamknownasfesal.github.io) (Turkey/2021)
 - Graphic Designer and IT(Internship) [**Magellon Bilişim**](https://www.linkedin.com/company/magellon/about/) (Turkey/2020-2021)
