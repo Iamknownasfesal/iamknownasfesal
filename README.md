@@ -28,6 +28,10 @@ None
 - Founder [**Hendra Games**](https://iamknownasfesal.github.io) (Turkey/2021)
 - Graphic Designer and IT(Internship) [**Magellon Bilişim**](https://www.linkedin.com/company/magellon/about/) (Turkey/2020-2021)
 
+
+[main]: https://github.com/iamknownasfesal
+[linkedin]: https://www.linkedin.com/in/devwarlt/
+[gmail]: mailto:mkircal957@gmail.com
 [discord-badge]: https://img.shields.io/badge/Fesal%231797-black?logo=discord&style=for-the-badge
 [linkedin-badge]: https://img.shields.io/badge/Mehmet%20Karchal-purple?logo=linkedin&style=for-the-badge
 [gmail-badge]: https://img.shields.io/badge/Gmail-black?logo=gmail&style=for-the-badge
