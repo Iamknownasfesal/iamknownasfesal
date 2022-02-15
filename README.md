@@ -9,7 +9,7 @@ Im kind of a person who dedicated his life to computer technology and it's varie
 
 ## Stats
 
-[!Fesal's Github Stats](https://github-readme-stats.vercel.app/api?username=iamknownasfesal&show_icons=true&theme=dark&show_icons=true&count_private=true&include_all_commits=true)][main]
+[![Fesal's Github Stats](https://github-readme-stats.vercel.app/api?username=iamknownasfesal&show_icons=true&theme=dark&show_icons=true&count_private=true&include_all_commits=true)][main]
 
 [![Fesal's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamknownasfesal&layout=compact&langs_count=10&theme=dark&custom_title=Fesal%27s+Most+Used+Languages)][main]
 
