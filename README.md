@@ -32,7 +32,7 @@ None
 - C# Development [**BTK AKADEMI**](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=wmlFv1JaE) (Turkey/2022)
 - Project Development with Firebase [**BTK AKADEMI**](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=bx1hGK69Dl) (Turkey/2022)
 - Web Programming with REACT (React/Redux) [**BTK AKADEMI**](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=EoPfbxo477) (Turkey/2022)
-- Website Availability [**BTK AKADEMI**](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=vpWc8LaA9b) (Turkey/2022)
+- Website Usability [**BTK AKADEMI**](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=vpWc8LaA9b) (Turkey/2022)
 - Algorithm and Programming with C# 101 | Beginner [**Turkcell Future Writers**](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/iamknownasfesal/C%20Sharp%20ile%20Algoritma%20ve%20Programlama/101) (Turkey/2022)
 - Algorithm and Programming with C# 201 | OOP [**Turkcell Future Writers**](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/iamknownasfesal/C%20Sharp%20ile%20Algoritma%20ve%20Programlama/201) (Turkey/2022)
 - Web Programming 101 | HTML [**Turkcell Future Writers**](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/iamknownasfesal/Web%20Programlama/101) (Turkey/2022)
