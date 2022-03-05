@@ -29,10 +29,10 @@ None
 - Senior .NET/Action Script 3.0 Developer [**ElementalRealms**](https://www.youtube.com/watch?v=Fb0zINzmQ1) (Turkey/2020)
 
 ## IT Certifications
-- C# [**@BTK_AKADEMI**](https://www.btkakademi.gov.tr) (Turkey/2022)
-- Project Development with Firebase [**@BTK_AKADEMI**](https://www.btkakademi.gov.tr) (Turkey/2022)
-- Web Programming with REACT (React/Redux) [**@BTK_AKADEMI**](https://www.btkakademi.gov.tr) (Turkey/2022)
-- Website Availability [**@BTK_AKADEMI**](https://www.btkakademi.gov.tr) (Turkey/2022)
+- C# Development [**BTK_AKADEMI**](https://www.btkakademi.gov.tr) (Turkey/2022)
+- Project Development with Firebase [**BTK_AKADEMI**](https://www.btkakademi.gov.tr) (Turkey/2022)
+- Web Programming with REACT (React/Redux) [**BTK_AKADEMI**](https://www.btkakademi.gov.tr) (Turkey/2022)
+- Website Availability [**BTK_AKADEMI**](https://www.btkakademi.gov.tr) (Turkey/2022)
 - Algorithm and Programming with C# 101 | Beginner [**Turkcell Future Writers**](https://gelecegiyazanlar.turkcell.com.tr) (Turkey/2022)
 - Algorithm and Programming with C# 201 | OOP [**Turkcell Future Writers**](https://gelecegiyazanlar.turkcell.com.tr) (Turkey/2022)
 - Web Programming 101 | HTML [**Turkcell Future Writers**](https://gelecegiyazanlar.turkcell.com.tr) (Turkey/2022)
