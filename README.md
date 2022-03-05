@@ -35,7 +35,7 @@ None
 - Website Availability [**BTK AKADEMI**](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=vpWc8LaA9b) (Turkey/2022)
 - Algorithm and Programming with C# 101 | Beginner [**Turkcell Future Writers**](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/iamknownasfesal/C%20Sharp%20ile%20Algoritma%20ve%20Programlama/101) (Turkey/2022)
 - Algorithm and Programming with C# 201 | OOP [**Turkcell Future Writers**](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/iamknownasfesal/C%20Sharp%20ile%20Algoritma%20ve%20Programlama/201) (Turkey/2022)
-- Web Programming 101 | HTML [**Turkcell Future Writers**](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/iamknownasfesal/Web%20Programlama/101 (Turkey/2022)
+- Web Programming 101 | HTML [**Turkcell Future Writers**](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/iamknownasfesal/Web%20Programlama/101) (Turkey/2022)
 - Web Programming 201 | HTML5 & CSS [**Turkcell Future Writers**](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/iamknownasfesal/Web%20Programlama/201) (Turkey/2022)
 - Web Programming 301 | JavaScript [**Turkcell Future Writers**](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/iamknownasfesal/Web%20Programlama/301) (Turkey/2022)
 - Web Programming 401 | Node.JS [**Turkcell Future Writers**](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/iamknownasfesal/Web%20Programlama/401) (Turkey/2022)
