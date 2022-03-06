@@ -29,6 +29,8 @@ None
 - Senior .NET/Action Script 3.0 Developer [**ElementalRealms**](https://www.youtube.com/watch?v=Fb0zINzmQ1) (Turkey/2020)
 
 ## IT Certifications
+- C# (Basic) [**Hacker Rank**](https://www.hackerrank.com/certificates/7e79cce6726a) (Turkey/2022)
+- React (Basic) [**Hacker Rank**](https://www.hackerrank.com/certificates/4544b94c511e) (Turkey/2022)
 - C# Development [**BTK AKADEMI**](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=wmlFv1JaE) (Turkey/2022)
 - Project Development with Firebase [**BTK AKADEMI**](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=bx1hGK69Dl) (Turkey/2022)
 - Web Programming with REACT (React/Redux) [**BTK AKADEMI**](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=EoPfbxo477) (Turkey/2022)
