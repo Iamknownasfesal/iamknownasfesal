@@ -48,7 +48,7 @@ None
 [linkedin]: www.linkedin.com/in/mehmetkircal
 [gmail]: mailto:mkircal957@gmail.com
 [youtube]: https://www.youtube.com/channel/UCCf66jJ2fOoCtY0otwClmwg
-[discord-badge]: https://img.shields.io/badge/Fesal%231797-black?logo=discord&style=for-the-badge
+[discord-badge]: https://img.shields.io/badge/Fesal%238176-black?logo=discord&style=for-the-badge
 [linkedin-badge]: https://img.shields.io/badge/Mehmet%20Karchal-purple?logo=linkedin&style=for-the-badge
 [gmail-badge]: https://img.shields.io/badge/Gmail-black?logo=gmail&style=for-the-badge
 [youtube-badge]: https://img.shields.io/badge/Iamknownasfesal-FF0000?style=for-the-badge&logo=youtube&logoColor=white
