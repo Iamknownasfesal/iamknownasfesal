@@ -18,7 +18,7 @@ Im kind of a person who dedicated his life to computer technology and it's varie
 
 ### Current
 
-- Blockchain Developer Intern [**Notus Network**](https://notus.network) (Turkey/2022)
+- Blockchain Developer Intern at [**Notus Network**](https://notus.network) (Turkey/2022)
 
 ### Previous
 - Founder [**GeDante**](https://gedante.works) (Turkey/2021-2022) discounted
