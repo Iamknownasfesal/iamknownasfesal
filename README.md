@@ -21,12 +21,11 @@ Im kind of a person who dedicated his life to computer technology and it's varie
 - Core Developer(Fullstack) at [**Notus Network**](https://notus.network) (Turkey/2022)
 
 ### Previous
-- Founder [**GeDante**](https://gedante.works) (Turkey/2021-2022) discounted
-- Founder [**Hendra Games**](https://iamknownasfesal.github.io) (Turkey/2022)
-- Fullstack Developer, Video Editor and Content Creator [**MMeslekiEgitimTanitim**](https://www.mmeslekiegitimtanitim.com) (Turkey/2021) discounted
-- Fullstack Developer [**BSOYMTAL**](https://bsoymtalwebkutuphane.web.app) (Turkey/2021)
-- Graphic Designer and IT(Internship) [**Magellon Bilişim**](https://www.linkedin.com/company/magellon/about/) (Turkey/2020-2021)
-- Senior .NET/Action Script 3.0 Developer [**ElementalRealms**](https://www.youtube.com/watch?v=Fb0zINzmQ1) (Turkey/2020)
+- Founder of [**GeDante**](https://gedante.works) (Turkey/2021-2022) discounted
+- Founder of [**Hendra Games**](https://iamknownasfesal.github.io) (Turkey/2022)
+- Fullstack Developer, Video Editor and Content Creator at [**MMeslekiEgitimTanitim**](https://www.mmeslekiegitimtanitim.com) (Turkey/2021) discounted
+- Fullstack Developer at [**BSOYMTAL**](https://bsoymtalwebkutuphane.web.app) (Turkey/2021)
+- Graphic Designer and IT(Internship) at [**Magellon Bilişim**](https://www.linkedin.com/company/magellon/about/) (Turkey/2020-2021)
 
 ## IT Certifications
 - C# (Basic) [**Hacker Rank**](https://www.hackerrank.com/certificates/7e79cce6726a) (Turkey/2022)
