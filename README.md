@@ -1,7 +1,7 @@
 # About Me
-Im kind of a person who dedicated his life to computer technology and it's varieties. I believe that you can't depend on luck for the quality. I try to improve myself in every chance that I get and revise myself to be better at the things that I do.
+An entrepreneur, consultant and software developer(soon to be a software engineer). A wide variety of interests ranging from Artificial Intelligence to Computer Security, mainly focused on Distributed Systems. 
 
-> If you can only do one thing, hone it to perfection. Hone it to the utmost limit.
+Co-Founder at @notus - A Layer1 Blockchain Project that enables a decentralized, permissionless and scalable blockchain infrastructure.
 
 ## Contacts
 
@@ -18,7 +18,7 @@ Im kind of a person who dedicated his life to computer technology and it's varie
 
 ### Current
 
-- Core Developer(Fullstack) at [**Notus Network**](https://notus.network) (Turkey/2022)
+- Core Developer(Fullstack) and Co-Founder at [**Notus Network**](https://notus.network) (Turkey/2022)
 
 ### Previous
 - Founder of [**GeDante**](https://gedante.works) (Turkey/2021-2022) discounted
