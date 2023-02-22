@@ -1,7 +1,7 @@
 # About Me
-An entrepreneur, consultant and software developer(soon to be a software engineer). A wide variety of interests ranging from Artificial Intelligence to Computer Security, mainly focused on Distributed Systems. 
+An entrepreneur, consultant and software engineer. A wide variety of interests ranging from Artificial Intelligence to Computer Security, mainly focused on Distributed Systems. 
 
-Co-Founder at @notus - A Layer1 Blockchain Project that enables a decentralized, permissionless and scalable blockchain infrastructure.
+**Co-Founder at @notus - A Layer1 Blockchain Project that enables a decentralized, permissionless and scalable blockchain infrastructure.**
 
 ## Contacts
 
