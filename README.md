@@ -18,30 +18,12 @@ An entrepreneur, consultant and software engineer. A wide variety of interests r
 
 ### Current
 
-- Core Developer(Fullstack) and Co-Founder at [**Notus Network**](https://notus.network) (Turkey/2022)
+- Core Contributor and Co-Founder at [**Notus Network**](https://notus.network) (Turkey/2022)
 
 ### Previous
 - Founder of [**GeDante**](https://gedante.works) (Turkey/2021-2022) discounted
-- Founder of [**Hendra Games**](https://iamknownasfesal.github.io) (Turkey/2022)
-- Fullstack Developer, Video Editor and Content Creator at [**MMeslekiEgitimTanitim**](https://www.mmeslekiegitimtanitim.com) (Turkey/2021) discounted
-- Fullstack Developer at [**BSOYMTAL**](https://bsoymtalwebkutuphane.web.app) (Turkey/2021)
-- Graphic Designer and IT(Internship) at [**Magellon Bilişim**](https://www.linkedin.com/company/magellon/about/) (Turkey/2020-2021)
-
-## IT Certifications
-- C# (Basic) [**Hacker Rank**](https://www.hackerrank.com/certificates/7e79cce6726a) (Turkey/2022)
-- React (Basic) [**Hacker Rank**](https://www.hackerrank.com/certificates/4544b94c511e) (Turkey/2022)
-- C# Development [**BTK AKADEMI**](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=wmlFv1JaE) (Turkey/2022)
-- Project Development with Firebase [**BTK AKADEMI**](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=bx1hGK69Dl) (Turkey/2022)
-- Web Programming with REACT (React/Redux) [**BTK AKADEMI**](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=EoPfbxo477) (Turkey/2022)
-- Website Usability [**BTK AKADEMI**](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=vpWc8LaA9b) (Turkey/2022)
-- Web Development with HTML5 [**BTK AKADEMI**](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=yjahJ60pop) (Turkey/2022)
-- Web Programming with Node.js | Express & Mongoose [**BTK AKADEMI**](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=pKmhKzM4xV) (Turkey/2022)
-- Algorithm and Programming with C# 101 | Beginner [**Turkcell Future Writers**](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/iamknownasfesal/C%20Sharp%20ile%20Algoritma%20ve%20Programlama/101) (Turkey/2022)
-- Algorithm and Programming with C# 201 | OOP [**Turkcell Future Writers**](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/iamknownasfesal/C%20Sharp%20ile%20Algoritma%20ve%20Programlama/201) (Turkey/2022)
-- Web Programming 101 | HTML [**Turkcell Future Writers**](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/iamknownasfesal/Web%20Programlama/101) (Turkey/2022)
-- Web Programming 201 | HTML5 & CSS [**Turkcell Future Writers**](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/iamknownasfesal/Web%20Programlama/201) (Turkey/2022)
-- Web Programming 301 | JavaScript [**Turkcell Future Writers**](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/iamknownasfesal/Web%20Programlama/301) (Turkey/2022)
-- Web Programming 401 | Node.JS [**Turkcell Future Writers**](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/iamknownasfesal/Web%20Programlama/401) (Turkey/2022)
+- IT and AI Engineer(Internship) at [**Magellon Bilişim**](https://www.linkedin.com/company/magellon/about/) (Turkey/2020-2021)
+/kisi/belge/iamknownasfesal/Web%20Programlama/401) (Turkey/2022)
 
 [main]: https://github.com/iamknownasfesal
 [linkedin]: www.linkedin.com/in/mehmetkircal
