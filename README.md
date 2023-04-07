@@ -23,7 +23,6 @@ An entrepreneur, consultant and software engineer. A wide variety of interests r
 ### Previous
 - Founder of [**GeDante**](https://gedante.works) (Turkey/2021-2022) discounted
 - IT and AI Engineer(Internship) at [**Magellon Bilişim**](https://www.linkedin.com/company/magellon/about/) (Turkey/2020-2021)
-/kisi/belge/iamknownasfesal/Web%20Programlama/401) (Turkey/2022)
 
 [main]: https://github.com/iamknownasfesal
 [linkedin]: www.linkedin.com/in/mehmetkircal
