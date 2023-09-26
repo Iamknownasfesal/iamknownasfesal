@@ -1,34 +1,33 @@
-# About Me
-An entrepreneur, consultant and software engineer. A wide variety of interests ranging from Artificial Intelligence to Computer Security, mainly focused on Distributed Systems. 
 
-**Co-Founder at @notus - A Layer1 Blockchain Project that enables a decentralized, permissionless and scalable blockchain infrastructure.**
+# About Me
+An entrepreneur, consultant and software engineer. A wide variety of interests ranging from Artificial Intelligence to Computer Security, mainly focused on Distributed Systems and Encryption.
+
+A Rustacean 🦀 and Typescripter
+Rewrites everything in r̷u̷s̷t tailwind
+
+**Co-Founder at [Notus Labs](https://twitter.com/notuslabss) - Development of Notus and Patara**
+**Code Reviewer(Software Engineer) at [Selfprof](https://selfprof.com/) - Leading NextJS Adaptation from PHP**
 
 ## Contacts
 
-[![discord-badge]][main] [![linkedin-badge]][linkedin] [![gmail-badge]][gmail] [![youtube-badge]][youtube]
-
-## Stats
-
-[![Fesal's Github Stats](https://github-readme-stats.vercel.app/api?username=iamknownasfesal&show_icons=true&theme=dark&show_icons=true&count_private=true&include_all_commits=true)][main]
-
-[![Fesal's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamknownasfesal&layout=compact&langs_count=10&theme=dark&custom_title=Fesal%27s+Most+Used+Languages)][main]
+[![discord-badge]][main] [![linkedin-badge]][linkedin] [![gmail-badge]][gmail] [![twitter-badge]][gmail]
 
 
 ## IT Jobs & Project Collabs
 
 ### Current
 
-- Core Contributor and Co-Founder at [**Notus Network**](https://notus.network) (Turkey/2022)
+- Core Contributor and Co-Founder at [**Notus Labs**](https://twitter.com/notuslabs) (Turkey/2022-still, Supported by [Tübitak](https://www.tubitak.gov.tr/en))
+- Code Reviewer and Software Engineer at [**Selfprof**](https://selfprof.com) (Turkey/2022-still)
 
 ### Previous
-- Founder of [**GeDante**](https://gedante.works) (Turkey/2021-2022) discounted
-- IT and AI Engineer(Internship) at [**Magellon Bilişim**](https://www.linkedin.com/company/magellon/about/) (Turkey/2020-2021)
+- IT and AI Developer (Internship) at [**Magellon Bilişim**](https://www.linkedin.com/company/magellon/about/) (Turkey/2020-2021)
 
 [main]: https://github.com/iamknownasfesal
-[linkedin]: www.linkedin.com/in/mehmetkircal
+[linkedin]: https://www.linkedin.com/in/mehmetkircal/
 [gmail]: mailto:mkircal957@gmail.com
-[youtube]: https://www.youtube.com/channel/UCCf66jJ2fOoCtY0otwClmwg
-[discord-badge]: https://img.shields.io/badge/Fesal%238176-black?logo=discord&style=for-the-badge
-[linkedin-badge]: https://img.shields.io/badge/Mehmet%20Karchal-purple?logo=linkedin&style=for-the-badge
+[twitter]: https://twitter.com/iamknownasfesal
+[discord-badge]: https://img.shields.io/badge/fesal-black?logo=discord&style=for-the-badge
+[linkedin-badge]: https://img.shields.io/badge/Mehmet%20Karchal-black?logo=linkedin&style=for-the-badge
 [gmail-badge]: https://img.shields.io/badge/Gmail-black?logo=gmail&style=for-the-badge
-[youtube-badge]: https://img.shields.io/badge/Iamknownasfesal-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+[twitter-badge]: https://img.shields.io/badge/iamknownasfesal-black?logo=twitter&style=for-the-badge
