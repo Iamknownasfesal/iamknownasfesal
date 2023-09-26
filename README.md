@@ -3,9 +3,11 @@
 An entrepreneur, consultant and software engineer. A wide variety of interests ranging from Artificial Intelligence to Computer Security, mainly focused on Distributed Systems and Encryption.
 
 A Rustacean 🦀 and Typescripter
+
 Rewrites everything in r̷u̷s̷t tailwind
 
 **Co-Founder at [Notus Labs](https://twitter.com/notuslabss) - Development of Notus and Patara**
+
 **Code Reviewer(Software Engineer) at [Selfprof](https://selfprof.com/) - Leading NextJS Adaptation from PHP**
 
 ## Contacts
