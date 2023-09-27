@@ -1,6 +1,6 @@
 
 # About Me
-An entrepreneur, consultant and software engineer. A wide variety of interests ranging from Artificial Intelligence to Computer Security, mainly focused on Distributed Systems and Encryption.
+An entrepreneur, consultant and software engineer. A wide variety of interests ranging from Artificial Intelligence to Computer Security, mainly focused on Distributed Systems and Cryptography.
 
 - A Rustacean 🦀 and an enthusiast of Typescript.
 - Rewrites everything in r̷u̷s̷t tailwind
