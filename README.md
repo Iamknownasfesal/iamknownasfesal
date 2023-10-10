@@ -15,7 +15,7 @@ An entrepreneur, consultant and software engineer. A wide variety of interests r
 ### Current
 
 - Core Contributor and Co-Founder at [**Notus Labs**](https://twitter.com/notuslabs) (Turkey/2022-present, Supported by [Tübitak](https://www.tubitak.gov.tr/en))
-- Code Reviewer and Software Engineer at [**Selfprof**](https://selfprof.com) (Turkey/2022-present)
+- Code Reviewer and Software Engineer at [**Selfprof**](https://selfprof.com) (Turkey/2022-2023)
 
 ### Previous
 - IT and AI Developer (Internship) at [**Magellon Bilişim**](https://www.linkedin.com/company/magellon/about/) (Turkey/2020-2021)
