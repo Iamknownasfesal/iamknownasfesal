@@ -1,4 +1,3 @@
-
 # About Me
 An entrepreneur, consultant and software engineer. A wide variety of interests ranging from Artificial Intelligence to Computer Security, mainly focused on Distributed Systems and Cryptography.
 
@@ -7,7 +6,7 @@ An entrepreneur, consultant and software engineer. A wide variety of interests r
 
 ## Contacts
 
-[![discord-badge]][main] [![linkedin-badge]][linkedin] [![gmail-badge]][gmail] [![twitter-badge]][gmail]
+[![discord-badge]][main] [![linkedin-badge]][linkedin] [![gmail-badge]][gmail] [![twitter-badge]][twitter]
 
 
 ## IT Jobs & Project Collabs
