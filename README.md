@@ -1,5 +1,5 @@
 # About Me
-An entrepreneur, consultant and software engineer. A wide variety of interests ranging from Artificial Intelligence to Computer Security, mainly focused on Distributed Systems and Cryptography.
+I write stuff that actually matters, 10x dev, from 5 day prod to 10 day professional outputs.
 
 - A Rustacean 🦀 and an enthusiast of Typescript.
 - Rewrites everything in r̷u̷s̷t tailwind
@@ -8,14 +8,8 @@ An entrepreneur, consultant and software engineer. A wide variety of interests r
 
 [![discord-badge]][main] [![linkedin-badge]][linkedin] [![gmail-badge]][gmail] [![twitter-badge]][twitter]
 
-
-## IT Jobs & Project Collabs
-
-### Current
-
-- Core Contributor and Co-Founder at [**Notus Labs**](https://twitter.com/notuslabs) (Turkey/2022-present, Supported by [Tübitak](https://www.tubitak.gov.tr/en))
-
-### Previous
+## Previous
+- Core Contributor and Co-Founder at [**Notus Labs**](https://twitter.com/notuslabs) (Turkey/2022-2025, Supported by [Tübitak](https://www.tubitak.gov.tr/en))
 - Code Reviewer and Software Engineer at [**Selfprof**](https://selfprof.com) (Turkey/2022-2023)
 - IT and AI Developer (Internship) at [**Magellon Bilişim**](https://www.linkedin.com/company/magellon/about/) (Turkey/2020-2021)
 
