@@ -8,6 +8,10 @@ I write stuff that actually matters, 10x dev, from 5 day prod to 10 day professi
 
 [![discord-badge]][main] [![linkedin-badge]][linkedin] [![gmail-badge]][gmail] [![twitter-badge]][twitter]
 
+## Current
+
+- Developer Relations at [**Ika**](https://twitter.com/ikadotxyz) (Remote/2025-current)
+
 ## Previous
 - Core Contributor and Co-Founder at [**Notus Labs**](https://twitter.com/notuslabs) (Turkey/2022-2025, Supported by [Tübitak](https://www.tubitak.gov.tr/en))
 - Code Reviewer and Software Engineer at [**Selfprof**](https://selfprof.com) (Turkey/2022-2023)
